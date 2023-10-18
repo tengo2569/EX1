@@ -49,6 +49,11 @@ main{
     margin-top: 23px;
 
 }
+.pre-order:hover{
+    background-color: #162542;
+    cursor: grab;
+    transition: 1.5s;
+}
 
 .typemaster{
     height: 96px;
@@ -97,6 +102,11 @@ main{
     line-height: 26px;
     letter-spacing: 0px;
 
+}
+.second-pre-order:hover{
+    background-color: orange;
+    cursor: grab ;
+    transition: 1.5s;
 }
 
 .realase{

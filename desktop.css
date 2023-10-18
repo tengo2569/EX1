@@ -27,7 +27,10 @@
         margin: auto;
         animation: welcome 4s ease 0s 1 normal forwards;
     }
-    
+    .pre-order{
+        background-color: red;
+      
+    }
     main{
         position: relative;
         width: 1440px;
