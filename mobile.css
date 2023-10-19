@@ -205,15 +205,6 @@ section{
     align-items: center;
 }
 
-.sectionimage{
-    width: 65px;
-    height: 65px;
-    border-radius: 16px;
-    background-color: #F16718;
-    border: none;
-    margin-bottom: 48px;
-}
-
 .sectionh{
     width: 327px;
     height: 56px;

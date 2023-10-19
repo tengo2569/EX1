@@ -135,15 +135,18 @@
     }
 
     .grey{
+        position: absolute;
+        top: 23%;
+        left: 15%;
         display: block;
         margin-left: 1305px;
         margin-top: -450px;
     }
     .grey1{
         display: block;
-        position: relative;
-        top:187px ;
-        left: -917px;
+        position: absolute;
+        top: 50.5%;
+        left: -10%;
     }
         
     .mainkeyboards{
@@ -226,14 +229,6 @@
         align-items: start;
     }
     
-    .sectionimage{
-        width: 65px;
-        height: 65px;
-        border-radius: 16px;
-        background-color: #F16718;
-        border: none;
-        margin-bottom: 48px;
-    }
     
     .sectionh{
         margin-bottom: 24px;
